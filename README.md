@@ -1,2 +1,0 @@
-# JoeyLatestPost
-Created with CodeSandbox
